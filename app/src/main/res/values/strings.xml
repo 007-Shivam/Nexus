@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nexus</string>
+    <string name="login_screen">Join a Community here !!!</string>
+    <string name="login_btn">LogIn with Google</string>
+    <string name="web_client_id">624186430999-2b9eg6q7vipqh1ob72qduum9p39bsri6.apps.googleusercontent.com</string>
+
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "624186430999",
+    "project_id": "nexus-2c88a",
+    "storage_bucket": "nexus-2c88a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624186430999:android:667264e3974834d865ae52",
+        "android_client_info": {
+          "package_name": "com.shivam.nexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624186430999-nquuklsufmg0hicaudqvb8md4u65lqja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivam.nexus",
+            "certificate_hash": "24bbcc0d3ec75c24a6d3398fde53ccdc062cff10"
+          }
+        },
+        {
+          "client_id": "624186430999-2b9eg6q7vipqh1ob72qduum9p39bsri6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbVcZoUevEW225yIlJbiS5k0SsiN7h6kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624186430999-2b9eg6q7vipqh1ob72qduum9p39bsri6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
