@@ -25,6 +25,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.google.android.gms.auth.api.identity.Identity
+import com.shivam.nexus.activities.enrolment.EnrolmentScreen
 import com.shivam.nexus.activities.log_in.GoogleAuthUiClient
 import com.shivam.nexus.activities.log_in.LogInScreen
 import com.shivam.nexus.activities.log_in.SignInViewModel
@@ -102,6 +103,8 @@ class MainActivity : ComponentActivity() {
                                 }
                             )
                         }
+
+
                         composable("ProfileScreen") {
                             ProfileScreen(
                                 userData = googleAuthUiClient.getSignedInUser(),
@@ -119,6 +122,12 @@ class MainActivity : ComponentActivity() {
                                 }
                             )
                         }
+
+
+                        composable("EnrolmentScreen") {
+                            EnrolmentScreen()
+                        }
+
                     }
                 }
             }

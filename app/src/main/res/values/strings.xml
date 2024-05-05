@@ -1,8 +1,19 @@
 <resources>
+
     <string name="app_name">Nexus</string>
     <string name="login_screen">Join a Community here !!!</string>
     <string name="login_btn">LogIn with Google</string>
     <string name="web_client_id">624186430999-2b9eg6q7vipqh1ob72qduum9p39bsri6.apps.googleusercontent.com</string>
 
+    <string name="enrolment_title">Fill this Enrolment Form</string>
+    <string name="upload_title">Upload Verification Document</string>
+    <string name="upload_description">Specifying that you are the selected representative of that Community</string>
+    <string name="upload_btn">Upload</string>
+    <string name="submit_btn">Submit</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_id">Email</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="choose_community">Choose your Community</string>
+    <string name="name_community">Name your Community Group</string>
 
 </resources>

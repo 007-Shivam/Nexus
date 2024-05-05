@@ -79,10 +79,6 @@ fun LogInScreen(
                 modifier = Modifier
                     .fillMaxWidth()
                     .wrapContentWidth(align = Alignment.Start)
-                    .border(
-                        BorderStroke(width = 3.dp, color = Color.Black),
-                        shape = RoundedCornerShape(50.dp)
-                    )
                     .padding(start = 20.dp)
                 ,
                 text = stringResource(id = R.string.login_screen),
@@ -100,10 +96,6 @@ fun LogInScreen(
                 contentDescription = "login_image",
                 modifier = Modifier
                     .size(500.dp, 300.dp)
-                    .border(
-                        BorderStroke(width = 3.dp, color = Color.Black),
-                        shape = RoundedCornerShape(50.dp)
-                    )
             )
 
             Spacer(modifier = Modifier.height(10.dp))
